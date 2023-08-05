@@ -2,4 +2,4 @@
 Полностью адаптивный сайт реставрации мебели.
 Весь код написан на чистом JS, из подключенных библиотек тольуо API Yandex map и InputMask.
 
-[Main File(executable file)](index.html)
+[Main File(executable file)]([index.html](https://vadimvoronin3831.github.io/WebSite1-ProDivanTop/)https://vadimvoronin3831.github.io/WebSite1-ProDivanTop/)
